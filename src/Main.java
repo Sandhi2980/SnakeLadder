@@ -4,5 +4,8 @@ public class Main{
         // ------- UC1 -------------
         Player P1=new Player();
         System.out.println(P1.position);
+
+        //---- UC2-------
+        P1.generateNumber();
     }
 }
